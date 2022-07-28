@@ -9,3 +9,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
   ] 6.adım:[8,11,12,16,21,22]
   ## Soru2 Big-O gösterimini yazınız.
   Big-O gösterimi O(nlogn)
+  https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
